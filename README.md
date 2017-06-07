@@ -1,6 +1,6 @@
 # Spring Vault Workshop
 
-[Link for slides](goo.gl/WUOc7D)
+[Link for slides](http://goo.gl/WUOc7D)
 
 ## What is Vault?
 
