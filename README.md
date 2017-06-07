@@ -61,7 +61,7 @@ Spring Vault is a framework from Spring that provides familiar Spring abstractio
 2. Complete the missing code for reading, writing and delete a Vault secret.
 3. Run and make sure it's working. Verify in Vault local server
 
-### Secrets backends and dynamic secrets
+## Secrets backends and dynamic secrets
 
 A backend in Vault is a strategy to create/read/store a secret. There are several backends already built-in but ton of them are coming. 
 
@@ -99,7 +99,7 @@ To seal a vault means it can't be accessed anymore until it gets unsealed again.
 - Try to run of the exercises above and see what happens
 - Run ``` vault unsealt ``` to unseal the vault
 
-### Authentication
+## Authentication
 
 Vault supports different types of authentication. The most common are listed below:
 
