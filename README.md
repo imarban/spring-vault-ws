@@ -1,5 +1,7 @@
 # Spring Vault Workshop
 
+Link for slides: goo.gl/WUOc7D
+
 ## What is Vault?
 
 HashiCorp’s Vault provides a central place to manage external secret data for applications across all environments. Vault can manage static and dynamic secrets such as application data, username/password for remote applications/resources and provide credentials for external services such as MySQL, PostgreSQL, Apache Cassandra, Consul, AWS and more.
